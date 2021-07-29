@@ -1,7 +1,7 @@
 # Hi, I'm PuQing
 
 个人主页
-- 国内线路：https://puqing.work
+- https://puqing.work
 
 ![image](https://img.shields.io/badge/Bug-100%25-green)
 ![image](https://img.shields.io/badge/quality-Z-green)
