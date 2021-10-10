@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [AndPuQing](https://github.com/AndPuQing)
 
-- 📝 I regularly write articles on [blog.puqing.work](https://blog.puqing.work)
+- 📝 I regularly write articles on [puqing.work](http://puqing.work)
+
+- 📜 My read the paper notes on [search.puqing.work](https://search.puqing.work)
 
 - 📫 How to reach me **me@puqing.work**
