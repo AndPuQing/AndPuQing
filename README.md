@@ -5,8 +5,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andpuqing"/>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/andpuqing/andpuqing/output/github-contribution-grid-snake.svg)
-
 - 🌱 I’m currently learning **Deep learning, C++**
 
 - 👨‍💻 All of my projects are available at [AndPuQing](https://github.com/AndPuQing)
