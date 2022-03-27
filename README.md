@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PuQing</h1>
-<h3 align="center">A developer from China</h3>
+<h3 align="center">I'm definitely not a half stack player</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andpuqing"/>
