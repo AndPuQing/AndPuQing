@@ -2,7 +2,7 @@
 <h3 align="center">Just go through my life</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andpuqing"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=AndPuQing&data=followers,repositories,stars,commits"/>
 </p>
 
 - 🌱 I’m currently learning **Deep learning, C++**
