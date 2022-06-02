@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **me@puqing.work**
 
+<details>
+<summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2057%20mins-blue)
@@ -55,3 +57,4 @@ Linux                    5 hrs 9 mins        █████░░░░░░�
 
  Last Updated on 02/06/2022 05:53:52 UTC
 <!--END_SECTION:waka-->
+</details>
