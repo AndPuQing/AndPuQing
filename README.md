@@ -1,3 +1,5 @@
+![PuQing](https://user-images.githubusercontent.com/27223114/171565019-9a56fae6-b08b-421f-99db-7e830da42371.png)
+
 <h1 align="center">Hi 👋, I'm PuQing</h1>
 <h3 align="center">Just go through my life</h3>
 
