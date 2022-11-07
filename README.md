@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm PuQing</h1>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=AndPuQing&data=followers,repositories,stars,commits"/>
-</p>
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 - 🌱 I’m currently learning **Deep learning, C++**
 
