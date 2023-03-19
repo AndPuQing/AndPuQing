@@ -6,6 +6,18 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 233.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 54 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 26 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
