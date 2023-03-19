@@ -19,7 +19,7 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_TIMEZONE: false
           SHOW_LANGUAGE_PER_REPO: false
-          SHOW_SHORT_INFO: false
+          SHOW_SHORT_INFO: true
           SHOW_LOC_CHART: false
           SHOW_UPDATED_DATE: false
           SHOW_TOTAL_CODE_TIME: false
