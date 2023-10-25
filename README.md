@@ -6,11 +6,11 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 258.4 kB Used in GitHub's Storage 
+> 📦 258.5 kB Used in GitHub's Storage 
  > 
 > 🏆 200 Contributions in the Year 2023
  > 
@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                493 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-🌆 Daytime                1613 commits        ████████████░░░░░░░░░░░░░   49.88 % 
-🌃 Evening                306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-🌙 Night                  822 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌞 Morning                491 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+🌆 Daytime                1612 commits        ████████████░░░░░░░░░░░░░   49.89 % 
+🌃 Evening                306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+🌙 Night                  822 commits         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
 ```
 
 
