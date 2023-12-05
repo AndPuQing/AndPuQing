@@ -10,13 +10,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 259.3 kB Used in GitHub's Storage 
+> 📦 259.4 kB Used in GitHub's Storage 
  > 
-> 🏆 325 Contributions in the Year 2023
+> 🏆 324 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
@@ -34,13 +34,13 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 28 mins        █████████████████████████   100.00 % 
+Markdown                 1 hr 22 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 28 mins        █████████████████████████   100.00 % 
+Obsidian                 1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
