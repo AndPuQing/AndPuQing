@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                437 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-🌆 Daytime                2133 commits        ████████████░░░░░░░░░░░░░   47.98 % 
-🌃 Evening                960 commits         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-🌙 Night                  916 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+🌞 Morning                435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌆 Daytime                2131 commits        ████████████░░░░░░░░░░░░░   48.00 % 
+🌃 Evening                958 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+🌙 Night                  916 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 ```
 
 
@@ -34,13 +34,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 35 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 
