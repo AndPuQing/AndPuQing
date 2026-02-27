@@ -6,11 +6,11 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.32%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 525.4 kB Used in GitHub's Storage 
+> 📦 525.5 kB Used in GitHub's Storage 
  > 
 > 🏆 547 Contributions in the Year 2026
  > 
@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1159 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-🌆 Daytime                5933 commits        ███████████░░░░░░░░░░░░░░   42.45 % 
-🌃 Evening                4349 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
-🌙 Night                  2534 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+🌞 Morning                1177 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+🌆 Daytime                6477 commits        ███████████░░░░░░░░░░░░░░   43.23 % 
+🌃 Evening                4709 commits        ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌙 Night                  2620 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 ```
 
 
@@ -34,19 +34,19 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-Python                   1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Rust                     1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Docker                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+YAML                     3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Python                   2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Rust                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Docker                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 24 mins       █████████████░░░░░░░░░░░░   50.11 % 
-WSL                      3 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
-Mac                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Linux                    6 hrs 27 mins       ███████████████░░░░░░░░░░   61.56 % 
+WSL                      2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Mac                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 ```
 
 
