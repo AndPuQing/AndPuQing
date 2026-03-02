@@ -10,9 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 525.5 kB Used in GitHub's Storage 
- > 
-> 🏆 553 Contributions in the Year 2026
+> 📦 525.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,19 +32,18 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.45 % 
-Python                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Rust                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Python                   3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
+YAML                     2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Rust                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 11 mins       █████████████████░░░░░░░░   69.21 % 
-WSL                      2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Mac                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Linux                    7 hrs 30 mins       ███████████████████████░░   90.04 % 
+Mac                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 
 
