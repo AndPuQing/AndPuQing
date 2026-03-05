@@ -6,27 +6,27 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 525.9 kB Used in GitHub's Storage 
+> 📦 525.7 kB Used in GitHub's Storage 
  > 
-> 🏆 566 Contributions in the Year 2026
+> 🏆 568 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 36 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                634 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-🌆 Daytime                5089 commits        ██████████░░░░░░░░░░░░░░░   40.87 % 
-🌃 Evening                4190 commits        ████████░░░░░░░░░░░░░░░░░   33.65 % 
-🌙 Night                  2538 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌞 Morning                643 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+🌆 Daytime                5146 commits        ██████████░░░░░░░░░░░░░░░   41.01 % 
+🌃 Evening                4216 commits        ████████░░░░░░░░░░░░░░░░░   33.60 % 
+🌙 Night                  2542 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
 ```
 
 
@@ -34,20 +34,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.77 % 
-YAML                     2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Rust                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Python                   12 hrs 18 mins      ████████████████░░░░░░░░░   63.28 % 
+Rust                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+YAML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 19 mins      ██████████████████████░░░   86.66 % 
-Zed                      1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+VS Code                  17 hrs              ██████████████████████░░░   87.40 % 
+Zed                      2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 
 💻 Operating System: 
-Linux                    12 hrs 14 mins      ██████████████████████░░░   86.01 % 
-WSL                      1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Linux                    16 hrs 27 mins      █████████████████████░░░░   84.62 % 
+WSL                      2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Mac                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 
