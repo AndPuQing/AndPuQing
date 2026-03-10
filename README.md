@@ -10,9 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 527.3 kB Used in GitHub's Storage 
+> 📦 527.2 kB Used in GitHub's Storage 
  > 
-> 🏆 629 Contributions in the Year 2026
+> 🏆 638 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                714 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-🌆 Daytime                6011 commits        ██████████░░░░░░░░░░░░░░░   41.01 % 
-🌃 Evening                5122 commits        █████████░░░░░░░░░░░░░░░░   34.95 % 
-🌙 Night                  2809 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌞 Morning                713 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+🌆 Daytime                6023 commits        ██████████░░░░░░░░░░░░░░░   41.03 % 
+🌃 Evening                5135 commits        █████████░░░░░░░░░░░░░░░░   34.98 % 
+🌙 Night                  2809 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 ```
 
 
@@ -34,20 +34,21 @@
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 38 mins      ███████████████░░░░░░░░░░   60.42 % 
-Rust                     3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Other                    2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Bash                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Python                   14 hrs 54 mins      ████████████████░░░░░░░░░   63.29 % 
+Rust                     3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-VS Code                  23 hrs              █████████████████████░░░░   83.50 % 
-Zed                      4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+VS Code                  19 hrs 44 mins      █████████████████████░░░░   83.86 % 
+Zed                      3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    22 hrs 13 mins      ████████████████████░░░░░   80.69 % 
-WSL                      4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Mac                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Linux                    18 hrs 35 mins      ████████████████████░░░░░   78.97 % 
+WSL                      4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Mac                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
 
