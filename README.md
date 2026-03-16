@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 527.3 kB Used in GitHub's Storage 
+> 📦 527.4 kB Used in GitHub's Storage 
  > 
 > 🏆 650 Contributions in the Year 2026
  > 
@@ -23,9 +23,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                670 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-🌆 Daytime                5995 commits        ██████████░░░░░░░░░░░░░░░   41.31 % 
-🌃 Evening                5033 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
+🌞 Morning                669 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+🌆 Daytime                5995 commits        ██████████░░░░░░░░░░░░░░░   41.32 % 
+🌃 Evening                5033 commits        █████████░░░░░░░░░░░░░░░░   34.69 % 
 🌙 Night                  2813 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
 ```
 
@@ -34,20 +34,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 55 mins      █████████████████░░░░░░░░   66.52 % 
-Other                    2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Bash                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Rust                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Python                   18 hrs 27 mins      ████████████████░░░░░░░░░   63.81 % 
+Other                    2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Bash                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Rust                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 57 mins      █████████████████████████   100.00 % 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  28 hrs 55 mins      █████████████████████████   99.99 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    24 hrs 7 mins       ████████████████████░░░░░   80.40 % 
-WSL                      5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Linux                    22 hrs 59 mins      ████████████████████░░░░░   79.46 % 
+WSL                      5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
