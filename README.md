@@ -12,7 +12,7 @@
 
 > 📦 527.4 kB Used in GitHub's Storage 
  > 
-> 🏆 652 Contributions in the Year 2026
+> 🏆 655 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,9 +23,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                713 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-🌆 Daytime                6255 commits        ██████████░░░░░░░░░░░░░░░   41.25 % 
-🌃 Evening                5346 commits        █████████░░░░░░░░░░░░░░░░   35.25 % 
+🌞 Morning                714 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌆 Daytime                6255 commits        ██████████░░░░░░░░░░░░░░░   41.24 % 
+🌃 Evening                5347 commits        █████████░░░░░░░░░░░░░░░░   35.25 % 
 🌙 Night                  2851 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
 ```
 
@@ -34,18 +34,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 54 mins      ███████████████░░░░░░░░░░   58.90 % 
-Bash                     3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Other                    3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Rust                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Python                   15 hrs 46 mins      ██████████████░░░░░░░░░░░   57.66 % 
+Bash                     4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Other                    3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+YAML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 17 mins      █████████████████████████   99.77 % 
+Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    24 hrs 55 mins      ████████████████████░░░░░   82.00 % 
-WSL                      5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Linux                    22 hrs 42 mins      █████████████████████░░░░   83.01 % 
+WSL                      4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 
