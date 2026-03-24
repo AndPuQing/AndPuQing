@@ -6,27 +6,27 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 528.0 kB Used in GitHub's Storage 
+> 📦 527.7 kB Used in GitHub's Storage 
  > 
-> 🏆 643 Contributions in the Year 2026
+> 🏆 651 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 36 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                714 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-🌆 Daytime                6120 commits        ██████████░░░░░░░░░░░░░░░   41.20 % 
-🌃 Evening                5209 commits        █████████░░░░░░░░░░░░░░░░   35.06 % 
-🌙 Night                  2813 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+🌞 Morning                724 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+🌆 Daytime                6400 commits        ██████████░░░░░░░░░░░░░░░   41.56 % 
+🌃 Evening                5417 commits        █████████░░░░░░░░░░░░░░░░   35.18 % 
+🌙 Night                  2859 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
 ```
 
 
@@ -34,20 +34,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   18 hrs 16 mins      ████████████████░░░░░░░░░   62.53 % 
-Bash                     3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Other                    3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Rust                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python                   20 hrs 46 mins      █████████████████░░░░░░░░   67.45 % 
+Bash                     3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Rust                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 9 mins       █████████████████████████   99.79 % 
-Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+VS Code                  30 hrs 44 mins      █████████████████████████   99.80 % 
+Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Linux                    25 hrs 45 mins      ██████████████████████░░░   88.11 % 
-WSL                      2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Mac                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Linux                    27 hrs 19 mins      ██████████████████████░░░   88.72 % 
+WSL                      2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Mac                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 
 
