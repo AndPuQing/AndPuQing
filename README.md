@@ -10,9 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 503.6 kB Used in GitHub's Storage 
+> 📦 503.7 kB Used in GitHub's Storage 
  > 
-> 🏆 716 Contributions in the Year 2026
+> 🏆 717 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,9 +24,9 @@
 
 ```text
 🌞 Morning                778 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-🌆 Daytime                6649 commits        ██████████░░░░░░░░░░░░░░░   41.72 % 
+🌆 Daytime                6649 commits        ██████████░░░░░░░░░░░░░░░   41.71 % 
 🌃 Evening                5616 commits        █████████░░░░░░░░░░░░░░░░   35.23 % 
-🌙 Night                  2896 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+🌙 Night                  2898 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 ```
 
 
@@ -34,18 +34,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 19 mins      █████████████████░░░░░░░░   67.62 % 
-Other                    2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Bash                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Python                   11 hrs 49 mins      ██████████████████░░░░░░░   71.68 % 
+Bash                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Other                    2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 52 mins      ███████████████████████░░   90.90 % 
-WSL                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Linux                    16 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
