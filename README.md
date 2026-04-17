@@ -6,13 +6,13 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 505.1 kB Used in GitHub's Storage 
  > 
-> 🏆 761 Contributions in the Year 2026
+> 🏆 764 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                822 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-🌆 Daytime                6897 commits        ██████████░░░░░░░░░░░░░░░   41.46 % 
-🌃 Evening                5847 commits        █████████░░░░░░░░░░░░░░░░   35.14 % 
-🌙 Night                  3071 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+🌞 Morning                816 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+🌆 Daytime                6811 commits        ██████████░░░░░░░░░░░░░░░   41.60 % 
+🌃 Evening                5721 commits        █████████░░░░░░░░░░░░░░░░   34.94 % 
+🌙 Night                  3026 commits        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 ```
 
 
