@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.88%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -25,8 +25,8 @@
 ```text
 🌞 Morning                801 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 🌆 Daytime                6643 commits        ██████████░░░░░░░░░░░░░░░   41.87 % 
-🌃 Evening                5485 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
-🌙 Night                  2936 commits        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+🌃 Evening                5486 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
+🌙 Night                  2937 commits        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 ```
 
 
@@ -34,18 +34,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.83 % 
-Other                    4 hrs               ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Bash                     3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                   5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
+Other                    4 hrs               ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Bash                     3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 2 mins       █████████████████████████   99.97 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Linux                    13 hrs 12 mins      █████████████████████████   99.96 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
