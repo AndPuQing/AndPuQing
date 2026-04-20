@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 505.1 kB Used in GitHub's Storage 
+> 📦 505.2 kB Used in GitHub's Storage 
  > 
 > 🏆 767 Contributions in the Year 2026
  > 
@@ -26,7 +26,7 @@
 🌞 Morning                801 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 🌆 Daytime                6652 commits        ██████████░░░░░░░░░░░░░░░   41.90 % 
 🌃 Evening                5485 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌙 Night                  2937 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌙 Night                  2938 commits        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 ```
 
 
@@ -34,18 +34,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
-Other                    4 hrs               ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Bash                     3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    20 hrs 56 mins      ███████████████░░░░░░░░░░   58.83 % 
+Rust                     6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Python                   4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Bash                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 12 mins      █████████████████████████   99.96 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+WSL                      26 hrs 21 mins      ███████████████████░░░░░░   74.04 % 
+Linux                    9 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
