@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                784 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-🌆 Daytime                6804 commits        ██████████░░░░░░░░░░░░░░░   41.14 % 
-🌃 Evening                5837 commits        █████████░░░░░░░░░░░░░░░░   35.30 % 
-🌙 Night                  3112 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌞 Morning                792 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌆 Daytime                6860 commits        ██████████░░░░░░░░░░░░░░░   41.25 % 
+🌃 Evening                5861 commits        █████████░░░░░░░░░░░░░░░░   35.25 % 
+🌙 Night                  3116 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 ```
 
 
@@ -34,18 +34,18 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     11 hrs 49 mins      ██████████████░░░░░░░░░░░   55.12 % 
-Markdown                 4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Python                   4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Rust                     11 hrs 49 mins      ██████████████░░░░░░░░░░░   54.58 % 
+Python                   4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Markdown                 4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      16 hrs 43 mins      ████████████████████░░░░░   78.00 % 
-Linux                    4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+WSL                      16 hrs 56 mins      ████████████████████░░░░░   78.22 % 
+Linux                    4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
 ```
 
 
