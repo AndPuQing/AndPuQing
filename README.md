@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 508.4 kB Used in GitHub's Storage 
+> 📦 507.2 kB Used in GitHub's Storage 
  > 
 > 🏆 814 Contributions in the Year 2026
  > 
@@ -18,8 +18,38 @@
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 36 Private Repositories 
+> 🔑 35 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                785 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+🌆 Daytime                6597 commits        ██████████░░░░░░░░░░░░░░░   40.84 % 
+🌃 Evening                5667 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
+🌙 Night                  3106 commits        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   15 hrs 52 mins      ████████████░░░░░░░░░░░░░   47.32 % 
+Rust                     6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Bash                     5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Other                    2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+
+🔥 Editors: 
+VS Code                  30 hrs 40 mins      ███████████████████████░░   91.41 % 
+Unknown Editor           2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+
+💻 Operating System: 
+Linux                    25 hrs 53 mins      ███████████████████░░░░░░   77.14 % 
+WSL                      7 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Mac                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+```
+
 
 <!--END_SECTION:waka-->
 </details>
