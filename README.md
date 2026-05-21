@@ -20,36 +20,6 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                784 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-🌆 Daytime                6597 commits        ██████████░░░░░░░░░░░░░░░   40.87 % 
-🌃 Evening                5667 commits        █████████░░░░░░░░░░░░░░░░   35.11 % 
-🌙 Night                  3094 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   17 hrs 34 mins      █████████████████░░░░░░░░   66.05 % 
-Bash                     4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Other                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Rust                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 59 mins      ███████████████████████░░   90.22 % 
-Unknown Editor           2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-
-💻 Operating System: 
-Linux                    25 hrs 55 mins      ████████████████████████░   97.47 % 
-WSL                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-```
-
 
 <!--END_SECTION:waka-->
 </details>
