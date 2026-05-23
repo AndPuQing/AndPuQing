@@ -10,9 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 507.2 kB Used in GitHub's Storage 
+> 📦 507.3 kB Used in GitHub's Storage 
  > 
-> 🏆 814 Contributions in the Year 2026
+> 🏆 818 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                784 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-🌆 Daytime                6597 commits        ██████████░░░░░░░░░░░░░░░   40.82 % 
-🌃 Evening                5668 commits        █████████░░░░░░░░░░░░░░░░   35.07 % 
-🌙 Night                  3113 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+🌞 Morning                783 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+🌆 Daytime                6597 commits        ██████████░░░░░░░░░░░░░░░   40.80 % 
+🌃 Evening                5670 commits        █████████░░░░░░░░░░░░░░░░   35.07 % 
+🌙 Night                  3119 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
 ```
 
 
@@ -34,20 +34,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 55 mins      ████████████░░░░░░░░░░░░░   47.97 % 
-Rust                     4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Bash                     4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Other                    2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Python                   12 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.00 % 
+Bash                     4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Rust                     3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Other                    2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 39 mins      ███████████████████████░░   91.55 % 
-Unknown Editor           2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+VS Code                  23 hrs 12 mins      ███████████████████████░░   91.06 % 
+Unknown Editor           2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 
 💻 Operating System: 
-Linux                    21 hrs 32 mins      ████████████████████░░░░░   79.99 % 
-WSL                      5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Mac                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Linux                    21 hrs 12 mins      █████████████████████░░░░   83.19 % 
+WSL                      4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Mac                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 
