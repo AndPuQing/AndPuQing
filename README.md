@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 507.0 kB Used in GitHub's Storage 
+> 📦 508.1 kB Used in GitHub's Storage 
  > 
 > 🏆 822 Contributions in the Year 2026
  > 
@@ -25,8 +25,8 @@
 ```text
 🌞 Morning                840 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 🌆 Daytime                6686 commits        ██████████░░░░░░░░░░░░░░░   40.80 % 
-🌃 Evening                5715 commits        █████████░░░░░░░░░░░░░░░░   34.88 % 
-🌙 Night                  3146 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌃 Evening                5715 commits        █████████░░░░░░░░░░░░░░░░   34.87 % 
+🌙 Night                  3147 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 ```
 
 
@@ -34,19 +34,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 49 mins      ██████████████░░░░░░░░░░░   54.29 % 
-Bash                     7 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Other                    3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Text                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-TeX                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Python                   16 hrs 7 mins       ██████████████░░░░░░░░░░░   55.15 % 
+Bash                     7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Other                    3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Text                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 15 mins      ████████████████████████░   94.44 % 
-Claude Code              1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+VS Code                  27 hrs 30 mins      ████████████████████████░   94.11 % 
+Claude Code              1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 💻 Operating System: 
-Linux                    29 hrs 35 mins      ████████████████████████░   95.51 % 
-Mac                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Linux                    29 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
