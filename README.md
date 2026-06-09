@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.87%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                802 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-🌆 Daytime                6671 commits        ██████████░░░░░░░░░░░░░░░   40.85 % 
-🌃 Evening                5677 commits        █████████░░░░░░░░░░░░░░░░   34.76 % 
-🌙 Night                  3182 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌞 Morning                829 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+🌆 Daytime                6985 commits        ██████████░░░░░░░░░░░░░░░   41.20 % 
+🌃 Evening                5907 commits        █████████░░░░░░░░░░░░░░░░   34.84 % 
+🌙 Night                  3233 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
 ```
 
 
@@ -34,15 +34,15 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 36 mins        ██████████████████░░░░░░░   71.64 % 
-Other                    38 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Python                   2 hrs 27 mins       ████████████████████░░░░░   79.31 % 
+Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       ███████████████████████░░   92.92 % 
+Claude Code              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 💻 Operating System: 
-Linux                    2 hrs 8 mins        ████████████████████████░   94.88 % 
-Mac                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Linux                    3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
