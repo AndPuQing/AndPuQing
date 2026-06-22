@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 504.7 kB Used in GitHub's Storage 
+> 📦 504.8 kB Used in GitHub's Storage 
  > 
 > 🏆 860 Contributions in the Year 2026
  > 
@@ -34,14 +34,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   26 mins             █████████████████████████   100.00 % 
+Python                   56 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  19 mins             ██████████████████░░░░░░░   72.79 % 
-Claude Code              7 mins              ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+VS Code                  48 mins             ██████████████████████░░░   86.96 % 
+Claude Code              7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 
