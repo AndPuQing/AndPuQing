@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.93%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                874 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-🌆 Daytime                7117 commits        ██████████░░░░░░░░░░░░░░░   41.60 % 
-🌃 Evening                5887 commits        █████████░░░░░░░░░░░░░░░░   34.41 % 
-🌙 Night                  3231 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+🌞 Morning                874 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+🌆 Daytime                7129 commits        ██████████░░░░░░░░░░░░░░░   41.63 % 
+🌃 Evening                5889 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌙 Night                  3234 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 ```
 
 
@@ -34,16 +34,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 57 mins       █████████████████████████   99.95 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   4 hrs 33 mins       ████████████████████████░   96.51 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 50 mins       ████████████████████████░   96.92 % 
-Claude Code              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+VS Code                  4 hrs 23 mins       ███████████████████████░░   92.92 % 
+Claude Code              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
