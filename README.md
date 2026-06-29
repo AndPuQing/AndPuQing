@@ -6,11 +6,11 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.05%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 504.9 kB Used in GitHub's Storage 
+> 📦 505.0 kB Used in GitHub's Storage 
  > 
 > 🏆 869 Contributions in the Year 2026
  > 
@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                862 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-🌆 Daytime                7065 commits        ██████████░░░░░░░░░░░░░░░   41.77 % 
-🌃 Evening                5759 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
-🌙 Night                  3228 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌞 Morning                897 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+🌆 Daytime                7428 commits        ██████████░░░░░░░░░░░░░░░   41.92 % 
+🌃 Evening                6105 commits        █████████░░░░░░░░░░░░░░░░   34.46 % 
+🌙 Night                  3288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
 ```
 
 
@@ -34,20 +34,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 2 mins       ██████████████░░░░░░░░░░░   56.99 % 
-Bash                     3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Typst                    2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Python                   13 hrs 46 mins      ███████████████░░░░░░░░░░   59.10 % 
+Bash                     4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Typst                    2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 9 mins       █████████████████████░░░░   83.41 % 
-Claude Code              1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Codex CLI                1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+VS Code                  18 hrs 19 mins      ████████████████████░░░░░   78.62 % 
+Claude Code              2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Codex CLI                2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 💻 Operating System: 
-Linux                    14 hrs 28 mins      ███████████████████░░░░░░   74.71 % 
-Mac                      4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Linux                    18 hrs 24 mins      ████████████████████░░░░░   78.98 % 
+Mac                      4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
 ```
 
 
