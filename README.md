@@ -6,13 +6,13 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 505.8 kB Used in GitHub's Storage 
  > 
-> 🏆 803 Contributions in the Year 2026
+> 🏆 805 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,8 +23,8 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                920 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-🌆 Daytime                7733 commits        ███████████░░░░░░░░░░░░░░   42.48 % 
+🌞 Morning                921 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+🌆 Daytime                7734 commits        ███████████░░░░░░░░░░░░░░   42.48 % 
 🌃 Evening                6196 commits        █████████░░░░░░░░░░░░░░░░   34.03 % 
 🌙 Night                  3357 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
 ```
@@ -34,17 +34,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 4 mins       ████████████████████░░░░░   80.06 % 
-Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Bash                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   16 hrs 13 mins      ████████████████████░░░░░   78.21 % 
+Other                    2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Bash                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
