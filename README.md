@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                975 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-🌆 Daytime                8415 commits        ███████████░░░░░░░░░░░░░░   43.57 % 
-🌃 Evening                6458 commits        ████████░░░░░░░░░░░░░░░░░   33.44 % 
-🌙 Night                  3465 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌞 Morning                994 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+🌆 Daytime                8437 commits        ███████████░░░░░░░░░░░░░░   43.55 % 
+🌃 Evening                6470 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
+🌙 Night                  3472 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
 ```
 
 
@@ -34,18 +34,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 19 mins      ██████████████░░░░░░░░░░░   55.81 % 
-Bash                     4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Other                    3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Python                   11 hrs 44 mins      ██████████████░░░░░░░░░░░   55.12 % 
+Other                    4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Bash                     3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 57 mins      █████████████████████░░░░   85.83 % 
-Codex CLI                3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+VS Code                  17 hrs 44 mins      █████████████████████░░░░   83.20 % 
+Codex CLI                3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 
 💻 Operating System: 
-Linux                    22 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    21 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
