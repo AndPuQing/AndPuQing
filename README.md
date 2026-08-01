@@ -26,9 +26,9 @@
 
 ```text
 🌞 Morning                1034 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-🌆 Daytime                7905 commits        ███████████░░░░░░░░░░░░░░   45.05 % 
+🌆 Daytime                7905 commits        ███████████░░░░░░░░░░░░░░   45.04 % 
 🌃 Evening                5421 commits        ████████░░░░░░░░░░░░░░░░░   30.89 % 
-🌙 Night                  3187 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+🌙 Night                  3191 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 ```
 
 
@@ -36,40 +36,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   20 hrs 24 mins      █████████████░░░░░░░░░░░░   51.47 % 
-Other                    8 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Bash                     7 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Markdown                 2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Python                   22 hrs 17 mins      █████████████░░░░░░░░░░░░   53.53 % 
+Other                    8 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Bash                     7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Markdown                 2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Codex CLI                24 hrs 20 mins      ███████████████░░░░░░░░░░   61.38 % 
-VS Code                  15 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   38.62 % 
+Codex CLI                22 hrs 11 mins      █████████████░░░░░░░░░░░░   53.28 % 
+VS Code                  19 hrs 27 mins      ████████████░░░░░░░░░░░░░   46.72 % 
 
 💻 Operating System: 
-Linux                    39 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 52 mins (75.34%)
+⏱ AI Coding Time: 27 hrs 26 mins (65.89%)
 
-✍️ 15,404 lines written by AI, 32,796 lines written by hand (31.96% AI-written)
+✍️ 13,665 lines written by AI, 35,314 lines written by hand (27.9% AI-written)
 
-🔤 639,528,148 Input Tokens, 3,959,642 Output Tokens
+🔤 599,613,068 Input Tokens, 3,524,851 Output Tokens
 
-💵 $3311.34 Estimated AI Cost This Week
+💵 $3059.24 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 155 AI Prompts
+🧠 9 AI Sessions, 124 AI Prompts
 
-GPT                      15,807 lines        █████████████████████████   100.00 % 
+GPT                      14,066 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.96% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 73.01% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 27.9% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 76.94% of changed lines were hand-edited
 ```
 
 
