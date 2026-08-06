@@ -6,15 +6,15 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 507.6 kB Used in GitHub's Storage 
+> 📦 507.7 kB Used in GitHub's Storage 
  > 
-> 🏆 950 Contributions in the Year 2026
+> 🏆 957 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1264 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-🌆 Daytime                10152 commits       ███████████░░░░░░░░░░░░░░   42.88 % 
-🌃 Evening                8030 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌙 Night                  4228 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+🌞 Morning                1287 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+🌆 Daytime                10454 commits       ███████████░░░░░░░░░░░░░░   43.06 % 
+🌃 Evening                8254 commits        ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌙 Night                  4282 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
 ```
 
 
@@ -36,40 +36,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 27 mins      █████████████░░░░░░░░░░░░   51.61 % 
-Other                    8 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
-Bash                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-CSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python                   12 hrs 13 mins      ████████████░░░░░░░░░░░░░   46.53 % 
+Other                    9 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
+Bash                     3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 26 mins      ███████████████████████░░   92.00 % 
-Codex CLI                1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+VS Code                  24 hrs 4 mins       ███████████████████████░░   91.60 % 
+Codex CLI                2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 💻 Operating System: 
-Linux                    22 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (11.08%)
+⏱ AI Coding Time: 5 hrs 4 mins (19.29%)
 
-✍️ 1,707 lines written by AI, 15,133 lines written by hand (10.14% AI-written)
+✍️ 1,226 lines written by AI, 14,022 lines written by hand (8.04% AI-written)
 
-🔤 175,305,265 Input Tokens, 2,939,447 Output Tokens
+🔤 202,160,213 Input Tokens, 3,157,959 Output Tokens
 
-💵 $964.71 Estimated AI Cost This Week
+💵 $1057.39 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 27 AI Prompts
+🧠 4 AI Sessions, 18 AI Prompts
 
-GPT                      1,774 lines         █████████████████████████   100.00 % 
+GPT                      944 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.14% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 92.01% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 8.04% of written lines came from AI
+📝 Concise Prompter — average 123 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 94.64% of changed lines were hand-edited
 ```
 
 
