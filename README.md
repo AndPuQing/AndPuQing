@@ -6,15 +6,15 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 508.2 kB Used in GitHub's Storage 
+> 📦 508.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,004 Contributions in the Year 2026
+> 🏆 1,007 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1197 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-🌆 Daytime                8774 commits        ██████████░░░░░░░░░░░░░░░   41.07 % 
-🌃 Evening                7324 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
-🌙 Night                  4070 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌞 Morning                1200 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+🌆 Daytime                8840 commits        ██████████░░░░░░░░░░░░░░░   41.04 % 
+🌃 Evening                7397 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌙 Night                  4105 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
 ```
 
 
@@ -36,40 +36,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.91 % 
-Other                    6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
-Bash                     3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   8 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.45 % 
+Other                    4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Bash                     4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Text                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 18 mins      ██████████████████████░░░   87.35 % 
-Codex CLI                2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+VS Code                  15 hrs 32 mins      ██████████████████░░░░░░░   72.19 % 
+Codex CLI                5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
 
 💻 Operating System: 
-Linux                    19 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (26.18%)
+⏱ AI Coding Time: 9 hrs 33 mins (44.4%)
 
-✍️ 920 lines written by AI, 16,406 lines written by hand (5.31% AI-written)
+✍️ 3,133 lines written by AI, 17,695 lines written by hand (15.04% AI-written)
 
-🔤 71,368,502 Input Tokens, 1,137,105 Output Tokens
+🔤 161,464,618 Input Tokens, 1,418,923 Output Tokens
 
-💵 $390.96 Estimated AI Cost This Week
+💵 $849.89 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 19 AI Prompts
+🧠 7 AI Sessions, 22 AI Prompts
 
-GPT                      944 lines           █████████████████████████   100.00 % 
+GPT                      3,261 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.31% of written lines came from AI
-📝 Concise Prompter — average 463 characters per prompt
+🧑‍💻 Mostly Hands-On — 15.04% of written lines came from AI
+📝 Concise Prompter — average 405 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 95.81% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.42% of changed lines were hand-edited
 ```
 
 
