@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1211 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-🌆 Daytime                8293 commits        ██████████░░░░░░░░░░░░░░░   40.15 % 
-🌃 Evening                7069 commits        █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌙 Night                  4081 commits        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+🌞 Morning                1213 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+🌆 Daytime                8293 commits        ██████████░░░░░░░░░░░░░░░   40.14 % 
+🌃 Evening                7070 commits        █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌙 Night                  4086 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
 ```
 
 
@@ -36,26 +36,26 @@
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 48 mins      █████████████░░░░░░░░░░░░   50.72 % 
-Other                    5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Bash                     3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Text                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-JSON                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Python                   15 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.84 % 
+Other                    5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Bash                     3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Text                     3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+JSON                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 55 mins      ██████████████░░░░░░░░░░░   57.50 % 
-Codex CLI                13 hrs 14 mins      ███████████░░░░░░░░░░░░░░   42.50 % 
+VS Code                  17 hrs 5 mins       ██████████████░░░░░░░░░░░   56.35 % 
+Codex CLI                13 hrs 14 mins      ███████████░░░░░░░░░░░░░░   43.65 % 
 
 💻 Operating System: 
-Linux                    31 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 29 mins (59.35%)
+⏱ AI Coding Time: 18 hrs 29 mins (60.96%)
 
-✍️ 5,119 lines written by AI, 6,559 lines written by hand (43.83% AI-written)
+✍️ 5,119 lines written by AI, 6,033 lines written by hand (45.9% AI-written)
 
 🔤 334,276,182 Input Tokens, 2,976,408 Output Tokens
 
@@ -66,10 +66,10 @@ Linux                    31 hrs 10 mins      ███████████�
 GPT                      5,407 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.83% of written lines came from AI
+⚖️ Balanced with AI — 45.9% of written lines came from AI
 📝 Concise Prompter — average 39 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 60.75% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.2% of changed lines were hand-edited
 ```
 
 
