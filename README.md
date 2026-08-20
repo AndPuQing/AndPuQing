@@ -6,15 +6,15 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.47%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 509.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,160 Contributions in the Year 2026
+> 🏆 1,166 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1120 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-🌆 Daytime                8399 commits        ██████████░░░░░░░░░░░░░░░   39.31 % 
-🌃 Evening                7523 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
-🌙 Night                  4326 commits        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+🌞 Morning                1150 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+🌆 Daytime                8506 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
+🌃 Evening                7689 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
+🌙 Night                  4420 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 ```
 
 
@@ -36,40 +36,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 59 mins      █████████████░░░░░░░░░░░░   50.15 % 
-Other                    9 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Bash                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Text                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-JSON                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Python                   13 hrs              ███████████░░░░░░░░░░░░░░   44.83 % 
+Other                    7 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Bash                     5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Text                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 28 mins      ███████████████████░░░░░░   76.73 % 
-Codex CLI                7 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+VS Code                  24 hrs 35 mins      █████████████████████░░░░   84.74 % 
+Codex CLI                4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 
 💻 Operating System: 
-Linux                    31 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 18 mins (35.47%)
+⏱ AI Coding Time: 8 hrs 39 mins (29.81%)
 
-✍️ 2,661 lines written by AI, 15,552 lines written by hand (14.61% AI-written)
+✍️ 1,233 lines written by AI, 28,752 lines written by hand (4.11% AI-written)
 
-🔤 159,503,293 Input Tokens, 2,937,870 Output Tokens
+🔤 151,155,735 Input Tokens, 1,599,559 Output Tokens
 
-💵 $885.65 Estimated AI Cost This Week
+💵 $803.77 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 50 AI Prompts
+🧠 9 AI Sessions, 53 AI Prompts
 
-GPT                      2,845 lines         █████████████████████████   100.00 % 
+GPT                      1,266 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.61% of written lines came from AI
-📝 Concise Prompter — average 59 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 89.73% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 4.11% of written lines came from AI
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 96.73% of changed lines were hand-edited
 ```
 
 
