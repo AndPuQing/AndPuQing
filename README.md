@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-268%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,9 +26,9 @@
 
 ```text
 🌞 Morning                1397 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-🌆 Daytime                9111 commits        ██████████░░░░░░░░░░░░░░░   38.94 % 
-🌃 Evening                8224 commits        █████████░░░░░░░░░░░░░░░░   35.15 % 
-🌙 Night                  4668 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+🌆 Daytime                9111 commits        ██████████░░░░░░░░░░░░░░░   38.93 % 
+🌃 Evening                8224 commits        █████████░░░░░░░░░░░░░░░░   35.14 % 
+🌙 Night                  4673 commits        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
 ```
 
 
@@ -36,41 +36,44 @@
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 13 mins      ███████████████░░░░░░░░░░   60.06 % 
-Other                    3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Bash                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Tcl                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Python                   18 hrs 16 mins      ███████████████░░░░░░░░░░   61.71 % 
+Other                    4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Bash                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 55 mins       ███████████████░░░░░░░░░░   58.35 % 
-Codex CLI                7 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.50 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  13 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.06 % 
+Codex CLI                12 hrs 33 mins      ███████████░░░░░░░░░░░░░░   42.40 % 
+Codex Vscode             3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 
 💻 Operating System: 
-Linux                    17 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    23 hrs 24 mins      ████████████████████░░░░░   79.01 % 
+Mac                      3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+WSL                      2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 32 mins (50.14%)
+⏱ AI Coding Time: 20 hrs 46 mins (70.14%)
 
-✍️ 2,168 lines written by AI, 1,743 lines written by hand (55.43% AI-written)
+✍️ 5,424 lines written by AI, 1,782 lines written by hand (75.27% AI-written)
 
-🔤 94,221,709 Input Tokens, 805,047 Output Tokens
+🔤 292,052,062 Input Tokens, 2,709,655 Output Tokens
 
-💵 $178.25 Estimated AI Cost This Week
+💵 $1375.92 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 90 AI Prompts
+🧠 30 AI Sessions, 176 AI Prompts
 
-GPT                      2,469 lines         █████████████████████████   100.00 % 
+GPT                      5,217 lines         ███████████████████████░░   90.26 % 
+Pi                       563 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.43% of written lines came from AI
-📝 Concise Prompter — average 458 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 53.36% of changed lines were hand-edited
+🤖 AI-Driven — 75.27% of written lines came from AI
+📄 Detailed Prompter — average 702 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 29.63% of changed lines were hand-edited
 ```
 
 
