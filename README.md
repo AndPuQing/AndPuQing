@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1511 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-🌆 Daytime                10700 commits       ██████████░░░░░░░░░░░░░░░   40.32 % 
-🌃 Evening                9416 commits        █████████░░░░░░░░░░░░░░░░   35.49 % 
-🌙 Night                  4908 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌞 Morning                1519 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+🌆 Daytime                10706 commits       ██████████░░░░░░░░░░░░░░░   40.31 % 
+🌃 Evening                9417 commits        █████████░░░░░░░░░░░░░░░░   35.46 % 
+🌙 Night                  4915 commits        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 ```
 
 
@@ -36,43 +36,43 @@
 
 ```text
 💬 Programming Languages: 
-Other                    40 hrs 49 mins      █████████████████░░░░░░░░   68.66 % 
-Python                   7 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Bash                     3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Tcl                      2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other                    41 hrs 55 mins      ██████████████████░░░░░░░   70.92 % 
+Python                   5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Markdown                 3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Bash                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C++                      2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 50 mins      ████████████████░░░░░░░░░   63.63 % 
-Codex CLI                19 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Claude Code              1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+VS Code                  38 hrs 8 mins       ████████████████░░░░░░░░░   64.51 % 
+Codex CLI                20 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   34.79 % 
+Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Linux                    59 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    59 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 56 mins (55.39%)
+⏱ AI Coding Time: 32 hrs 26 mins (54.89%)
 
-✍️ 18,172 lines written by AI, 134,195 lines written by hand (11.93% AI-written)
+✍️ 14,895 lines written by AI, 135,713 lines written by hand (9.89% AI-written)
 
-🔤 611,690,885 Input Tokens, 3,744,691 Output Tokens
+🔤 627,604,476 Input Tokens, 3,656,562 Output Tokens
 
-💵 $3782.64 Estimated AI Cost This Week
+💵 $4517.47 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 198 AI Prompts
+🧠 17 AI Sessions, 218 AI Prompts
 
-GPT                      13,965 lines        ██████████████████░░░░░░░   72.89 % 
-Opus                     5,192 lines         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+GPT                      15,607 lines        █████████████████████████   99.99 % 
 Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.93% of written lines came from AI
-📚 Verbose Prompter — average 7,647 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 88.02% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 9.89% of written lines came from AI
+📚 Verbose Prompter — average 6,972 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 90.11% of changed lines were hand-edited
 ```
 
 
