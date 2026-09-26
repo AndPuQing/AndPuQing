@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,9 +26,9 @@
 
 ```text
 🌞 Morning                1519 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-🌆 Daytime                10706 commits       ██████████░░░░░░░░░░░░░░░   40.31 % 
-🌃 Evening                9417 commits        █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌙 Night                  4915 commits        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+🌆 Daytime                10712 commits       ██████████░░░░░░░░░░░░░░░   40.33 % 
+🌃 Evening                9418 commits        █████████░░░░░░░░░░░░░░░░   35.45 % 
+🌙 Night                  4915 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 ```
 
 
@@ -36,43 +36,44 @@
 
 ```text
 💬 Programming Languages: 
-Other                    41 hrs 55 mins      ██████████████████░░░░░░░   70.92 % 
-Python                   5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Markdown                 3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Bash                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-C++                      2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Other                    43 hrs 4 mins       █████████████████░░░░░░░░   69.51 % 
+Python                   5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Markdown                 3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+C++                      3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Bash                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 8 mins       ████████████████░░░░░░░░░   64.51 % 
-Codex CLI                20 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   34.79 % 
-Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+VS Code                  38 hrs 48 mins      ████████████████░░░░░░░░░   62.63 % 
+Codex CLI                22 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.98 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    59 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    61 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 26 mins (54.89%)
+⏱ AI Coding Time: 35 hrs 10 mins (56.77%)
 
-✍️ 14,895 lines written by AI, 135,713 lines written by hand (9.89% AI-written)
+✍️ 17,537 lines written by AI, 137,602 lines written by hand (11.3% AI-written)
 
-🔤 627,604,476 Input Tokens, 3,656,562 Output Tokens
+🔤 689,128,487 Input Tokens, 3,802,104 Output Tokens
 
-💵 $4517.47 Estimated AI Cost This Week
+💵 $5022.98 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 218 AI Prompts
+🧠 19 AI Sessions, 226 AI Prompts
 
-GPT                      15,607 lines        █████████████████████████   99.99 % 
+GPT                      18,261 lines        █████████████████████████   99.99 % 
 Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.89% of written lines came from AI
-📚 Verbose Prompter — average 6,972 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 90.11% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 11.3% of written lines came from AI
+📚 Verbose Prompter — average 6,736 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 88.75% of changed lines were hand-edited
 ```
 
 
