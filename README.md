@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-358%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,9 +26,9 @@
 
 ```text
 🌞 Morning                1519 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-🌆 Daytime                10712 commits       ██████████░░░░░░░░░░░░░░░   40.33 % 
-🌃 Evening                9418 commits        █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌙 Night                  4914 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌆 Daytime                10712 commits       ██████████░░░░░░░░░░░░░░░   40.32 % 
+🌃 Evening                9418 commits        █████████░░░░░░░░░░░░░░░░   35.45 % 
+🌙 Night                  4917 commits        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 ```
 
 
@@ -36,44 +36,44 @@
 
 ```text
 💬 Programming Languages: 
-Other                    43 hrs 4 mins       █████████████████░░░░░░░░   69.51 % 
-Python                   5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Markdown                 3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-C++                      3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Bash                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    44 hrs 31 mins      █████████████████░░░░░░░░   68.06 % 
+Markdown                 4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+C++                      4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Python                   4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Bash                     3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 48 mins      ████████████████░░░░░░░░░   62.63 % 
-Codex CLI                22 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.98 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+VS Code                  35 hrs 6 mins       █████████████░░░░░░░░░░░░   53.68 % 
+Codex CLI                28 hrs 52 mins      ███████████░░░░░░░░░░░░░░   44.15 % 
+Claude Code              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    61 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    65 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 10 mins (56.77%)
+⏱ AI Coding Time: 42 hrs 4 mins (64.33%)
 
-✍️ 17,537 lines written by AI, 137,602 lines written by hand (11.3% AI-written)
+✍️ 23,288 lines written by AI, 128,847 lines written by hand (15.31% AI-written)
 
-🔤 689,128,487 Input Tokens, 3,802,104 Output Tokens
+🔤 808,077,036 Input Tokens, 3,312,162 Output Tokens
 
-💵 $5022.98 Estimated AI Cost This Week
+💵 $6592.68 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 226 AI Prompts
+🧠 22 AI Sessions, 285 AI Prompts
 
-GPT                      18,261 lines        █████████████████████████   99.99 % 
+GPT                      19,057 lines        ████████████████████░░░░░   78.94 % 
+Opus                     5,081 lines         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.3% of written lines came from AI
-📚 Verbose Prompter — average 6,736 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 88.75% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.31% of written lines came from AI
+📚 Verbose Prompter — average 5,352 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 84.57% of changed lines were hand-edited
 ```
 
 
