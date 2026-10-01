@@ -6,7 +6,7 @@
 <summary>Click here for detailed stats!</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-381%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.33%20million%20lines%20of%20code-blue?style=flat)
 
@@ -28,7 +28,7 @@
 🌞 Morning                1510 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 🌆 Daytime                10717 commits       ██████████░░░░░░░░░░░░░░░   40.31 % 
 🌃 Evening                9425 commits        █████████░░░░░░░░░░░░░░░░   35.45 % 
-🌙 Night                  4935 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+🌙 Night                  4937 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
 ```
 
 
@@ -36,47 +36,46 @@
 
 ```text
 💬 Programming Languages: 
-Other                    31 hrs 49 mins      ████████████░░░░░░░░░░░░░   47.98 % 
-C++                      7 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Bash                     6 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Tcl                      6 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Markdown                 5 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Other                    25 hrs 23 mins      ███████████░░░░░░░░░░░░░░   45.71 % 
+Bash                     6 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+C++                      6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Tcl                      5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Markdown                 3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🔥 Editors: 
-Codex CLI                34 hrs              █████████████░░░░░░░░░░░░   51.26 % 
-VS Code                  29 hrs 2 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
-Claude Code              3 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+VS Code                  27 hrs 45 mins      ████████████░░░░░░░░░░░░░   49.98 % 
+Codex CLI                24 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.37 % 
+Claude Code              3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    66 hrs 2 mins       █████████████████████████   99.56 % 
-WSL                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Linux                    55 hrs 14 mins      █████████████████████████   99.47 % 
+WSL                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 61 hrs 18 mins (92.41%)
+⏱ AI Coding Time: 47 hrs 15 mins (85.09%)
 
-✍️ 28,014 lines written by AI, 19,709 lines written by hand (58.7% AI-written)
+✍️ 19,293 lines written by AI, 14,861 lines written by hand (56.49% AI-written)
 
-🔤 1,212,390,446 Input Tokens, 4,250,592 Output Tokens
+🔤 921,735,662 Input Tokens, 2,939,703 Output Tokens
 
-💵 $9304.42 Estimated AI Cost This Week
+💵 $8434.55 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 410 AI Prompts
+🧠 44 AI Sessions, 309 AI Prompts
 
-GPT                      22,405 lines        ███████████████████░░░░░░   77.35 % 
-Opus                     6,560 lines         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GPT                      13,804 lines        █████████████████░░░░░░░░   67.79 % 
+Opus                     6,560 lines         ████████░░░░░░░░░░░░░░░░░   32.21 % 
 Pi                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.7% of written lines came from AI
-📚 Verbose Prompter — average 3,759 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 44.19% of changed lines were hand-edited
+⚖️ Balanced with AI — 56.49% of written lines came from AI
+📝 Concise Prompter — average 115 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 47.51% of changed lines were hand-edited
 ```
 
 
