@@ -12,9 +12,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 514.3 kB Used in GitHub's Storage 
+> 📦 514.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,900 Contributions in the Year 2026
+> 🏆 1,902 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,9 +26,9 @@
 
 ```text
 🌞 Morning                1510 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-🌆 Daytime                10718 commits       ██████████░░░░░░░░░░░░░░░   40.28 % 
-🌃 Evening                9426 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
-🌙 Night                  4957 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌆 Daytime                10718 commits       ██████████░░░░░░░░░░░░░░░   40.27 % 
+🌃 Evening                9427 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
+🌙 Night                  4958 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
 ```
 
 
@@ -36,45 +36,45 @@
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.72 % 
-Bash                     5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Tcl                      5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-C++                      4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Python                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Other                    12 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
+Bash                     5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Tcl                      4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+C++                      3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Python                   2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 2 mins       ██████████████░░░░░░░░░░░   56.61 % 
-Codex CLI                13 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   35.56 % 
-Claude Code              3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+VS Code                  22 hrs 19 mins      ██████████████████░░░░░░░   72.91 % 
+Codex CLI                6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Claude Code              1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 💻 Operating System: 
-Linux                    38 hrs 39 mins      █████████████████████████   99.24 % 
-WSL                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Linux                    30 hrs 19 mins      █████████████████████████   99.04 % 
+WSL                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 27 mins (83.35%)
+⏱ AI Coding Time: 22 hrs 49 mins (74.57%)
 
-✍️ 11,137 lines written by AI, 4,691 lines written by hand (70.36% AI-written)
+✍️ 4,726 lines written by AI, 6,562 lines written by hand (41.87% AI-written)
 
-🔤 645,588,385 Input Tokens, 1,873,297 Output Tokens
+🔤 457,549,545 Input Tokens, 1,296,658 Output Tokens
 
-💵 $6587.40 Estimated AI Cost This Week
+💵 $4720.00 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 221 AI Prompts
+🧠 32 AI Sessions, 155 AI Prompts
 
-Opus                     6,560 lines         █████████████░░░░░░░░░░░░   53.95 % 
-GPT                      5,599 lines         ████████████░░░░░░░░░░░░░   46.05 % 
+GPT                      4,143 lines         ██████████████████░░░░░░░   73.69 % 
+Opus                     1,479 lines         ███████░░░░░░░░░░░░░░░░░░   26.31 % 
 Pi                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.36% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 41.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 41.87% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 66.93% of changed lines were hand-edited
 ```
 
 
