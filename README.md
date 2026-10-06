@@ -14,7 +14,7 @@
 
 > 📦 514.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,907 Contributions in the Year 2026
+> 🏆 1,910 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1511 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-🌆 Daytime                10718 commits       ██████████░░░░░░░░░░░░░░░   40.27 % 
-🌃 Evening                9429 commits        █████████░░░░░░░░░░░░░░░░   35.43 % 
-🌙 Night                  4958 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌞 Morning                1511 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+🌆 Daytime                10719 commits       ██████████░░░░░░░░░░░░░░░   40.26 % 
+🌃 Evening                9429 commits        █████████░░░░░░░░░░░░░░░░   35.41 % 
+🌙 Night                  4967 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
 ```
 
 
@@ -36,43 +36,42 @@
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.96 % 
-Bash                     2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Python                   2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Tcl                      2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other                    5 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.91 % 
+Python                   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Bash                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 55 mins      █████████████████████████   99.76 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VS Code                  11 hrs 18 mins      █████████████████████████   99.94 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    16 hrs              ██████████████████████░░░   89.07 % 
-WSL                      1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Linux                    9 hrs 36 mins       █████████████████████░░░░   84.91 % 
+WSL                      1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 47 mins (54.53%)
+⏱ AI Coding Time: 3 hrs 14 mins (28.56%)
 
-✍️ 1,296 lines written by AI, 6,516 lines written by hand (16.59% AI-written)
+✍️ 540 lines written by AI, 5,520 lines written by hand (8.91% AI-written)
 
-🔤 187,468,958 Input Tokens, 687,664 Output Tokens
+🔤 45,798,310 Input Tokens, 342,192 Output Tokens
 
-💵 $479.78 Estimated AI Cost This Week
+💵 $245.43 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 137 AI Prompts
+🧠 21 AI Sessions, 55 AI Prompts
 
-GPT                      826 lines           ███████████████░░░░░░░░░░   60.47 % 
-Pi                       540 lines           ██████████░░░░░░░░░░░░░░░   39.53 % 
+Pi                       540 lines           ███████████████████████░░   91.22 % 
+GPT                      52 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.59% of written lines came from AI
-📝 Concise Prompter — average 77 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 86.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 8.91% of written lines came from AI
+📝 Concise Prompter — average 159 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 91.54% of changed lines were hand-edited
 ```
 
 
