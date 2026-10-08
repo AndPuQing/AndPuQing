@@ -28,7 +28,7 @@
 🌞 Morning                1511 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 🌆 Daytime                10719 commits       ██████████░░░░░░░░░░░░░░░   40.26 % 
 🌃 Evening                9429 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
-🌙 Night                  4963 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+🌙 Night                  4964 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
 ```
 
 
@@ -36,42 +36,42 @@
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 31 mins       ████████████░░░░░░░░░░░░░   48.28 % 
-Python                   4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Bash                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Other                    7 hrs 51 mins       █████████████░░░░░░░░░░░░   50.33 % 
+Python                   5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.29 % 
+TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 47 mins      ██████████████████████░░░   88.54 % 
-WSL                      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Linux                    13 hrs 50 mins      ██████████████████████░░░   88.58 % 
+WSL                      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (17.84%)
+⏱ AI Coding Time: 1 hr 42 mins (10.93%)
 
-✍️ 540 lines written by AI, 17,884 lines written by hand (2.93% AI-written)
+✍️ 540 lines written by AI, 27,128 lines written by hand (1.95% AI-written)
 
-🔤 45,798,310 Input Tokens, 342,192 Output Tokens
+🔤 24,522,046 Input Tokens, 171,339 Output Tokens
 
-💵 $245.43 Estimated AI Cost This Week
+💵 $225.09 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 30 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
 Pi                       540 lines           ███████████████████████░░   91.22 % 
 GPT                      52 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.93% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.13% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.95% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 98.08% of changed lines were hand-edited
 ```
 
 
