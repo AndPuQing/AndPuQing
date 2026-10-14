@@ -28,7 +28,7 @@
 🌞 Morning                1511 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 🌆 Daytime                10730 commits       ██████████░░░░░░░░░░░░░░░   40.26 % 
 🌃 Evening                9431 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
-🌙 Night                  4977 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+🌙 Night                  4979 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
 ```
 
 
@@ -36,47 +36,46 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Other                    16 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Rust                     14 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Python                   12 hrs 37 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Lean4                    6 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Other                    17 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Markdown                 15 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Rust                     14 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Python                   10 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Lean4                    6 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-Codex Vscode             38 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.10 % 
-VS Code                  28 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   36.63 % 
-Claude Code              11 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Codex Vscode             38 hrs 6 mins       █████████████░░░░░░░░░░░░   52.05 % 
+VS Code                  27 hrs              █████████░░░░░░░░░░░░░░░░   36.90 % 
+Claude Code              8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 💻 Operating System: 
-WSL                      56 hrs 26 mins      ██████████████████░░░░░░░   72.64 % 
-Linux                    21 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+WSL                      52 hrs 26 mins      ██████████████████░░░░░░░   71.64 % 
+Linux                    20 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   28.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 24 mins (72.6%)
+⏱ AI Coding Time: 52 hrs 24 mins (71.59%)
 
-✍️ 28,727 lines written by AI, 47,788 lines written by hand (37.54% AI-written)
+✍️ 27,155 lines written by AI, 50,989 lines written by hand (34.75% AI-written)
 
-🔤 28,674,170 Input Tokens, 5,529,228 Output Tokens
+🔤 27,381,855 Input Tokens, 4,921,403 Output Tokens
 
-💵 $668.24 Estimated AI Cost This Week
+💵 $598.38 Estimated AI Cost This Week
 
-🧠 138 AI Sessions, 397 AI Prompts
+🧠 115 AI Sessions, 340 AI Prompts
 
-GPT                      23,957 lines        █████████████████████░░░░   82.38 % 
-DeepSeek                 5,124 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+GPT                      23,817 lines        ██████████████████████░░░   86.65 % 
+DeepSeek                 3,670 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.54% of written lines came from AI
-📄 Detailed Prompter — average 880 characters per prompt
+⚖️ Balanced with AI — 34.75% of written lines came from AI
+📄 Detailed Prompter — average 869 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 65.16% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 67.71% of changed lines were hand-edited
 ```
 
 
