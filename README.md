@@ -26,9 +26,9 @@
 
 ```text
 🌞 Morning                1512 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-🌆 Daytime                10829 commits       ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌃 Evening                9442 commits        █████████░░░░░░░░░░░░░░░░   35.14 % 
-🌙 Night                  5086 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+🌆 Daytime                10829 commits       ██████████░░░░░░░░░░░░░░░   40.29 % 
+🌃 Evening                9442 commits        █████████░░░░░░░░░░░░░░░░   35.13 % 
+🌙 Night                  5092 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 ```
 
 
@@ -36,39 +36,23 @@
 
 ```text
 💬 Programming Languages: 
-Other                    22 hrs 14 mins      ██████████████████░░░░░░░   72.16 % 
-Python                   4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Bash                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Other                    10 hrs 59 mins      ████████████░░░░░░░░░░░░░   49.91 % 
+Python                   6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    30 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (2.47%)
-
-✍️ 9 lines written by AI, 47,989 lines written by hand (0.02% AI-written)
-
-🔤 4,172,958 Input Tokens, 61,821 Output Tokens
-
-💵 $17.93 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-GPT                      9 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.02% of written lines came from AI
-📝 Concise Prompter — average 156 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.98% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
